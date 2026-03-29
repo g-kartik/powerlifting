@@ -6,7 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This repo stores a [Starting Strength](https://startingstrength.com/) workout program encoded in [Liftosaur](https://www.liftosaur.com/) format.
 
-- `liftosaur.md` — the workout program (paste into Liftosaur's "Program" editor)
+- `liftosaur.md` — the Starting Strength workout program (paste into Liftosaur's "Program" editor); includes Tibialis Raise in both Workout A and B
+- `tibialis.md` — standalone Tibialis Trainer Bar program (3-day structure with linear progression); designed to complement SS
+- `tibialis_research.md` — evidence review with source citations for tibialis training protocol decisions
 - `Starting Strength Worksheet(3).xlsx` — the original source spreadsheet
 
 ## Liftosaur Program Format
