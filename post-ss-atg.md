@@ -1,7 +1,8 @@
-# Post-SS ATG for Life
+/// Post-SS ATG for Life
+///
+/// Supplementary 3-day program to run alongside Starting Strength. Focuses on ankle mobility, joint health, and targeted accessory strength.
 
-Supplementary 3-day program to run alongside Starting Strength. Focuses on ankle mobility, joint health, and targeted accessory strength.
-
+# Week 1
 ## Day 1
 
 Reverse Sled Drag / 1x1 0kg / progress: lp(2.5kg, 2)
