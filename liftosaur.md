@@ -1,4 +1,3 @@
-# Week 1
 ## Day 1
 // **Pre-SS Warmup Routine**
 // 1. Tibialis Raise — 1x25

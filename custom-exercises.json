@@ -14,9 +14,9 @@
     },
     {
       "name": "Reverse Squat",
-      "equipment": "Barbell",
-      "description": "Squat with feet positioned backward or on a slant board for deeper ankle dorsiflexion",
-      "muscleGroups": ["Quads", "Ankles", "Tibialis"]
+      "equipment": "Cable",
+      "description": "Lying cable movement with feet anchored in straps; knees drawn to chest against resistance to strengthen hip flexors",
+      "muscleGroups": ["Hip Flexors", "Core", "Obliques"]
     },
     {
       "name": "Tibialis Raise",

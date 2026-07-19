@@ -1,0 +1,15 @@
+- barbells
+- tibialis trainer
+- head harness for neck training
+- gripper
+- slant board
+- powerlifting belt
+- liquid chalk
+- fractional plates
+- resistance bands
+- sled
+- power rack
+- sled pull jacket
+- barefoot shoes
+- video recording setup
+-
