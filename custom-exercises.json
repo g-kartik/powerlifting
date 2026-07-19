@@ -1,0 +1,148 @@
+{
+  "customExercises": [
+    {
+      "name": "Reverse Sled Drag",
+      "equipment": "Sled",
+      "description": "Drag a sled backward to build posterior chain and work on ankle mobility",
+      "muscleGroups": ["Glutes", "Hamstrings", "Calves", "Ankles"]
+    },
+    {
+      "name": "Poliquin Pulse",
+      "equipment": "Bodyweight",
+      "description": "Pulsing calf raises for calf endurance and ankle mobility",
+      "muscleGroups": ["Calves", "Ankles"]
+    },
+    {
+      "name": "Reverse Squat",
+      "equipment": "Barbell",
+      "description": "Squat with feet positioned backward or on a slant board for deeper ankle dorsiflexion",
+      "muscleGroups": ["Quads", "Ankles", "Tibialis"]
+    },
+    {
+      "name": "Tibialis Raise",
+      "equipment": "Barbell",
+      "description": "Weighted dorsiflexion movement to strengthen anterior tibialis",
+      "muscleGroups": ["Tibialis", "Ankles"]
+    },
+    {
+      "name": "Neck Harness Flexion",
+      "equipment": "Neck Harness",
+      "description": "Neck flexion with harness to strengthen neck stabilizers",
+      "muscleGroups": ["Neck"]
+    },
+    {
+      "name": "Neck Harness Extension",
+      "equipment": "Neck Harness",
+      "description": "Neck extension with harness to strengthen posterior neck",
+      "muscleGroups": ["Neck"]
+    },
+    {
+      "name": "ATG Split Squat Pulse",
+      "equipment": "Bodyweight",
+      "description": "Pulsing split squat for glute and quad work with mobility emphasis",
+      "muscleGroups": ["Glutes", "Quads", "Hips"]
+    },
+    {
+      "name": "Seated Good Morning",
+      "equipment": "Barbell",
+      "description": "Good morning performed from seated position to isolate posterior chain",
+      "muscleGroups": ["Hamstrings", "Glutes", "Lower Back"]
+    },
+    {
+      "name": "ATG Back Extension",
+      "equipment": "Bodyweight",
+      "description": "Back extension with ankle-to-ground positioning for mobility and strength",
+      "muscleGroups": ["Lower Back", "Glutes", "Hamstrings"]
+    },
+    {
+      "name": "Standing Pancake",
+      "equipment": "Bodyweight",
+      "description": "Standing forward fold with pancake stretch progression for hamstring and ankle mobility",
+      "muscleGroups": ["Hamstrings", "Ankles", "Calves"]
+    },
+    {
+      "name": "ATG Incline Press",
+      "equipment": "Dumbbell",
+      "description": "Incline press in ATG position to emphasize chest and shoulder development with mobility",
+      "muscleGroups": ["Chest", "Shoulders", "Triceps"]
+    },
+    {
+      "name": "ATG Incline Row",
+      "equipment": "Dumbbell",
+      "description": "Incline row with mobility emphasis to strengthen upper back and posterior chain",
+      "muscleGroups": ["Upper Back", "Lats", "Biceps"]
+    },
+    {
+      "name": "Band Pushdown",
+      "equipment": "Band",
+      "description": "Tricep pushdown using resistance band",
+      "muscleGroups": ["Triceps"]
+    },
+    {
+      "name": "Gripper",
+      "equipment": "Hand Gripper",
+      "description": "Hand grip strengthening exercise using a gripper tool",
+      "muscleGroups": ["Forearms", "Grip"]
+    },
+    {
+      "name": "FHL Calf Raise",
+      "equipment": "Bodyweight",
+      "description": "Flexor Hallucis Longus calf raise targeting deep calf muscles and ankle stability",
+      "muscleGroups": ["Calves", "Ankles"]
+    },
+    {
+      "name": "KOT Calf Raise",
+      "equipment": "Bodyweight",
+      "description": "Calf raise with knees over toes positioning for ankle dorsiflexion emphasis",
+      "muscleGroups": ["Calves", "Ankles", "Tibialis"]
+    },
+    {
+      "name": "Patrick Step",
+      "equipment": "Bodyweight",
+      "description": "Step-up variation emphasizing hip external rotation and ankle mobility",
+      "muscleGroups": ["Glutes", "Hips", "Quads", "Ankles"]
+    },
+    {
+      "name": "ATG Split Squat",
+      "equipment": "Bodyweight",
+      "description": "Split squat with deep range of motion for quad and hip development",
+      "muscleGroups": ["Quads", "Glutes", "Hips"]
+    },
+    {
+      "name": "Elephant Walk",
+      "equipment": "Bodyweight",
+      "description": "Forward walking while in a forward fold position for hamstring and calf mobility",
+      "muscleGroups": ["Hamstrings", "Calves", "Ankles", "Back"]
+    },
+    {
+      "name": "L Sit",
+      "equipment": "Bodyweight",
+      "description": "Isometric hold with legs extended parallel to ground for core and hip flexor strength",
+      "muscleGroups": ["Core", "Hip Flexors", "Shoulders"]
+    },
+    {
+      "name": "Couch Stretch",
+      "equipment": "Couch",
+      "description": "Hip flexor and quad stretch using a couch for support",
+      "muscleGroups": ["Hip Flexors", "Quads"]
+    },
+    {
+      "name": "Pigeon Pose",
+      "equipment": "Bodyweight",
+      "description": "Hip and glute mobility stretch in pigeon position",
+      "muscleGroups": ["Glutes", "Hip Rotators"]
+    },
+    {
+      "name": "Slantboard Calf Stretch",
+      "equipment": "Slantboard",
+      "description": "Calf and ankle mobility stretch using an inclined board for deep gastrocnemius stretch",
+      "muscleGroups": ["Calves", "Ankles"]
+    },
+    {
+      "name": "Band Pull Apart",
+      "equipment": "Band",
+      "description": "Shoulder mobility and rear delt exercise using resistance band",
+      "muscleGroups": ["Rear Delts", "Shoulders", "Upper Back"]
+    }
+  ]
+}
